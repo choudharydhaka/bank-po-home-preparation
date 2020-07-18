@@ -1,7 +1,7 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1595071299818" ID="ID_1044375434" MODIFIED="1595071333557" TEXT="Blood relation">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1595071299818" ID="ID_1044375434" MODIFIED="1595074950778" TEXT="Blood relation">
+<font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1595071513941" ID="ID_950346152" MODIFIED="1595073466954" POSITION="right" TEXT="Terms">
 <node CREATED="1595071527798" ID="ID_1669055216" MODIFIED="1595072294053" TEXT="Brother">
 <arrowlink DESTINATION="ID_1669055216" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1894012017" STARTARROW="None" STARTINCLINATION="0;0;"/>
@@ -271,6 +271,54 @@
 <node CREATED="1595072991742" ID="ID_511697313" MODIFIED="1595073791685" TEXT="Bete ki beti">
 <icon BUILTIN="full-2"/>
 </node>
+</node>
+</node>
+<node CREATED="1595074741084" ID="ID_172356962" MODIFIED="1595074797329" TEXT="Myself">
+<icon BUILTIN="male2"/>
+<node CREATED="1595074744984" ID="ID_342694945" MODIFIED="1595074919614" TEXT="Mata ji ka only beta">
+<icon BUILTIN="full-1"/>
+</node>
+<node CREATED="1595074767613" ID="ID_269460207" MODIFIED="1595074919614" TEXT="Papa ji ka only beta">
+<icon BUILTIN="full-1"/>
+</node>
+<node CREATED="1595074772571" ID="ID_1222139521" MODIFIED="1595074919613" TEXT="Wife ka pati">
+<icon BUILTIN="full-1"/>
+</node>
+<node CREATED="1595074861227" ID="ID_577158217" MODIFIED="1595074919612" TEXT="Bhai ki chota bhai">
+<icon BUILTIN="full-1"/>
+</node>
+<node CREATED="1595074872403" ID="ID_352810442" MODIFIED="1595074919607" TEXT="Bhai ka bda bhai">
+<icon BUILTIN="full-1"/>
+</node>
+<node CREATED="1595074882059" ID="ID_320358949" MODIFIED="1595074919606" TEXT="Bahan ka bda bhai">
+<icon BUILTIN="full-1"/>
+</node>
+<node CREATED="1595074888416" ID="ID_598964276" MODIFIED="1595074919604" TEXT="Bhahan ka chhota bhai">
+<icon BUILTIN="full-1"/>
+</node>
+</node>
+<node CREATED="1595074741084" ID="ID_1517825541" MODIFIED="1595075032659" TEXT="Myself">
+<icon BUILTIN="female2"/>
+<node CREATED="1595074744984" ID="ID_462738992" MODIFIED="1595074941462" TEXT="Mata ji ki only beti">
+<icon BUILTIN="full-1"/>
+</node>
+<node CREATED="1595074767613" ID="ID_616022003" MODIFIED="1595074960516" TEXT="Papa ki only beti">
+<icon BUILTIN="full-1"/>
+</node>
+<node CREATED="1595074772571" ID="ID_690981376" MODIFIED="1595074970614" TEXT="Pati ki wife">
+<icon BUILTIN="full-1"/>
+</node>
+<node CREATED="1595074861227" ID="ID_645821332" MODIFIED="1595074988991" TEXT="Bhai ki choti sister">
+<icon BUILTIN="full-1"/>
+</node>
+<node CREATED="1595074872403" ID="ID_1288182389" MODIFIED="1595074997926" TEXT="Bhai ki bdi sister">
+<icon BUILTIN="full-1"/>
+</node>
+<node CREATED="1595074882059" ID="ID_252619816" MODIFIED="1595075006526" TEXT="Bahan ka bdi bahan">
+<icon BUILTIN="full-1"/>
+</node>
+<node CREATED="1595074888416" ID="ID_470635708" MODIFIED="1595075013694" TEXT="Bhahan ki chhoti bahan">
+<icon BUILTIN="full-1"/>
 </node>
 </node>
 </node>

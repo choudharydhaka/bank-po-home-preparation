@@ -52,7 +52,7 @@ Rules ko kbhi bhi update kiya ja skta h... Suresh and Babita ke approval se.
 |Name|Mistake|Assignment |Mistake Bank / month|Assignment Bank / month|
 |-|-|-|-|-|
 |Rachana|0|0|3|3
-|Priyanka|0|0|3|3
+|Priyanka|0|1|3|3
 |Nishant|0|0|3|
 |Ravi|0|0|3|3
 
