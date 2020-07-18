@@ -8,3 +8,6 @@
     - Done
 
 
+# Blood Relationship
+
+![](/mindmap/Blood -relation.png)
