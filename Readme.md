@@ -10,4 +10,4 @@
 
 # Blood Relationship
 
-![](/mindmap/Blood -relation.png)
+![](./mindmap/Blood-relation.png)
